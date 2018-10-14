@@ -4,3 +4,5 @@ i am learning python! lol lol lol lol!
 作为自己学习python的小笔记和纪录。
 同时第一次使用github，挺方便的。
 ## 顺便也学习一下Markdown的写法
+### 三个#符号是什么标题？
+### 新增Django学习项目，请移步learnDjango
